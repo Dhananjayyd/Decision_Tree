@@ -6,4 +6,4 @@
 >tree is called the root node, and the final outcomes are called leaf nodes. The decision tree algorithm works by recursively splitting the data into smaller subsets 
 >based on the features that are most informative in predicting the target variable.
 
-** ALGORITHM
+**ALGORITHM**
