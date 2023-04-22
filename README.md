@@ -5,3 +5,5 @@
 >In a decision tree, each node represents a feature or attribute, and each branch represents a decision or a possible outcome of that feature. The topmost node in the
 >tree is called the root node, and the final outcomes are called leaf nodes. The decision tree algorithm works by recursively splitting the data into smaller subsets 
 >based on the features that are most informative in predicting the target variable.
+
+**ALGORITHM
