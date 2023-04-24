@@ -20,6 +20,9 @@
 >![Decision_tree1](https://user-images.githubusercontent.com/107355282/234040111-e70d5e19-3cc4-4216-9431-5e54834daac3.png)
 >
 > In the decision tree diagram,a person has to take a decision whether he should go for a run or not? This is the root node.
+> 
 >In the next level of tree he has to take to decision whether yes or no.
+>
 >If yes,then the machine will ask for weather condition,i.e, is it raining or sunny? If it is raining then stay or go and if it is sunny then he has to go.
+>
 >If no,then he might be busy and he has to stay.
