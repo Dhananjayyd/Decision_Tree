@@ -17,7 +17,7 @@
 **EXAMPLE:**
 
 >Below is the diagram for decision tree
->![should i go for a run today](https://user-images.githubusercontent.com/107355282/234016444-0300d896-6f40-42be-9d5d-caeedaa75d29.png)
+>![Decision_tree1](https://user-images.githubusercontent.com/107355282/234040111-e70d5e19-3cc4-4216-9431-5e54834daac3.png)
 >
 > In the decision tree diagram,a person has to take a decision whether he should go for a run or not? This is the root node.
 >In the next level of tree he has to take to decision whether yes or no.
