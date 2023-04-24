@@ -43,6 +43,29 @@
 >
 >7. **Efficient for large datasets**: Decision trees can be efficient for large datasets, as they can quickly narrow down the number of variables that are relevant to >the target variable.
 
+**DISADVANTAGES**
+
+>1.**Overfitting**: Decision trees are prone to overfitting, meaning they may create a complex model that fits the training data too well, but does not generalize well >to new data.
+>
+>2. **Instability**: Decision trees can be sensitive to small variations in the data, which can cause instability in the model.
+>
+>3. **Bias**: Decision trees can be biased towards features with more levels, leading to an uneven representation of the data.
+>
+>4. **Difficulty with continuous variables**: Decision trees can have difficulty with continuous variables, as they may require many splits to capture the full range >of values, which can result in overfitting.
+>
+>5. **Difficulty with class imbalance**: Decision trees can struggle with class imbalance, where one class is significantly more prevalent than the other, as the >algorithm may prioritize the majority class.
+>
+>6. **Lack of robustness**: Decision trees can be sensitive to changes in the data, such as outliers or missing values, which can result in changes to the final model.
+>
+>7. **Greedy nature**: Decision trees are a greedy algorithm, meaning they make the best decision at each step without considering future steps, which can result in >suboptimal solutions.
+
+>***This Algorithm might tend to fall in overfitting***
+
+
+
+
+
+
 
 
 
