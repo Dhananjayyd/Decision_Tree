@@ -13,3 +13,13 @@
 > 3. Divide the data based on the feature and create child nodes for each subset.
 > 4. Repeat steps 1-3 for each child node until all the subsets are pure or a predefined stopping criteria is met.
 > 5. Create leaf nodes for the final outcomes based on the majority class of the samples in that subset.
+
+**EXAMPLE:**
+
+>Below is the diagram for decision tree
+>![should i go for a run today](https://user-images.githubusercontent.com/107355282/234016444-0300d896-6f40-42be-9d5d-caeedaa75d29.png)
+>
+> In the decision tree diagram,a person has to take a decision whether he should go for a run or not? This is the root node.
+>In the next level of tree he has to take to decision whether yes or no.
+>If yes,then the machine will ask for weather condition,i.e, is it raining or sunny? If it is raining then stay or go and if it is sunny then he has to go.
+>If no,then he might be busy and he has to stay.
