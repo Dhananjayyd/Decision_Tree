@@ -25,4 +25,27 @@
 >
 >If yes,then the machine will ask for weather condition,i.e, is it raining or sunny? If it is raining then stay or go and if it is sunny then he has to go.
 >
->If no,then he might be busy and he has to stay.
+>If no,then he might be busy and he has to stay.This is the leaf node.
+
+**ADVANTAGES**
+
+>1. **Easy to understand and interpret**: Decision trees are easy to understand and interpret, even for non-technical users. They can be visualized easily, allowing >users to quickly grasp the underlying logic.
+>
+>2. **Able to handle both categorical and numerical data**: Decision trees can handle both categorical and numerical data, making them a versatile algorithm for a wide range >of applications.
+>
+>3. **Can handle missing values**: Decision trees can handle missing values by using surrogate splits to replace the missing values with the next best variable.
+>
+>4. **Can handle non-linear relationships**: Decision trees can handle non-linear relationships between variables, making them a good choice for data that doesn't follow a >linear pattern.
+>
+>5. **Can be used for feature selection**: Decision trees can be used for feature selection by identifying the most important variables that contribute to the target >variable.
+>
+>6. **Can be combined with other algorithms**: Decision trees can be combined with other algorithms, such as ensemble methods like random forests or boosting, to >improve their performance.
+>
+>7. **Efficient for large datasets**: Decision trees can be efficient for large datasets, as they can quickly narrow down the number of variables that are relevant to >the target variable.
+
+
+
+
+
+
+
