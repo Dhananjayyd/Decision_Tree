@@ -17,6 +17,14 @@
 >>* Choose a test(eg. an input feature) to split on.
 >>- For each value of the test, build a subtree for those examples with this value of test.
 
+** Top Down induction of a decision tree**
+
+>- A <- the "best" decision attribute for next node.
+>- Assign A as decision attribute for node.
+>- For each value of A create new descendant.
+>- Sort training examples to leaf node according to the attribute value of the branch.
+>- If all training eg. are perfectly classified (same value of target attribute) stop, else iterate over new leaf nodes.
+
 **ALGORITHM:**
 
 > 1. Select the best feature that splits the data into the most homogeneous subsets.
