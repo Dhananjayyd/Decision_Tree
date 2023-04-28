@@ -6,6 +6,15 @@
 >tree is called the root node, and the final outcomes are called leaf nodes. The decision tree algorithm works by recursively splitting the data into smaller subsets 
 >based on the features that are most informative in predicting the target variable.
 
+**How to search a good ***decision tree***?**
+
+>The space of decision trees is too big for systematic search.
+>>* Stop and
+>>-return the value of a target feature.
+>>-or a distribution over the target feature values.
+>* Choose a test(eg. an input feature) to split on.
+>>- For each value of the test, build a subtree for those examples with this value of test.
+
 **ALGORITHM:**
 
 > 1. Select the best feature that splits the data into the most homogeneous subsets.
