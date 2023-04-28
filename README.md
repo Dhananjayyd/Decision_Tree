@@ -14,7 +14,7 @@
 >>- return the value of a target feature.
 >>- or a distribution over the target feature values.
 >
->* Choose a test(eg. an input feature) to split on.
+>>* Choose a test(eg. an input feature) to split on.
 >>- For each value of the test, build a subtree for those examples with this value of test.
 
 **ALGORITHM:**
