@@ -40,8 +40,11 @@
 **What is Entropy**?
 
 It is a measure for:
+
 -uncertainity
+
 -purity
+
 -information content
 
 * Information theory: optimal length code assigns(-log2 p) bits to messages having probability p
@@ -49,6 +52,7 @@ It is a measure for:
 *   - p+ is the proportion of positive eg. in S
 *   - p- is the proportion of negative eg. in S
 * Entropy of S: average optimal number of bits to encode information about certainity/uncertainity about S
+* 
 *Entropy(S)* = p+(-log2 p+) + p-(-log2 p-) = -p+ log2 p+ -p- log2 p-   
 
 **EXAMPLE:**
