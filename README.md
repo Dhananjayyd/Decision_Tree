@@ -17,7 +17,7 @@
 >>* Choose a test(eg. an input feature) to split on.
 >>- For each value of the test, build a subtree for those examples with this value of test.
 
-** Top Down induction of a decision tree**
+**Top Down induction of a decision tree**
 
 >- A <- the "best" decision attribute for next node.
 >- Assign A as decision attribute for node.
@@ -32,6 +32,24 @@
 > 3. Divide the data based on the feature and create child nodes for each subset.
 > 4. Repeat steps 1-3 for each child node until all the subsets are pure or a predefined stopping criteria is met.
 > 5. Create leaf nodes for the final outcomes based on the majority class of the samples in that subset.
+
+**Information Gain**
+
+***Information gain*** is based on the concept of entropy.
+
+**What is Entropy**?
+
+It is a measure for:
+-uncertainity
+-purity
+-information content
+
+* Information theory: optimal length code assigns(-log2 p) bits to messages having probability p
+* S is a sample of training examples
+*   - p+ is the proportion of positive eg. in S
+*   - p- is the proportion of negative eg. in S
+* Entropy of S: average optimal number of bits to encode information about certainity/uncertainity about S
+*Entropy(S)* = p+(-log2 p+) + p-(-log2 p-) = -p+ log2 p+ -p- log2 p-   
 
 **EXAMPLE:**
 
