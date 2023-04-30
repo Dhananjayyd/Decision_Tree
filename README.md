@@ -59,6 +59,15 @@ It is a measure for:
 
 ![entropy_curve](https://user-images.githubusercontent.com/107355282/235348206-f822a78a-18c8-4338-a9de-f42e6a6a1396.png)
 
+-The Entropy is 0 if the outcome is "certain"
+
+-The Entropy is maximum when we have no knowledge about the system.
+
+**Selecting the next attribute**
+
+![Selecting the next Attribute1](https://user-images.githubusercontent.com/107355282/235353756-28128d36-52c8-4402-8326-51bff8b2856b.png)
+
+
 
 **EXAMPLE:**
 
