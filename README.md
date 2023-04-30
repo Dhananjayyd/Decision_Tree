@@ -55,6 +55,11 @@ It is a measure for:
 * 
 *Entropy(S)* = p+(-log2 p+) + p-(-log2 p-) = -p+ log2 p+ -p- log2 p-   
 
+-Entropy(S) lies between 0 and 1.  0 <= S <=1
+
+![entropy_curve](https://user-images.githubusercontent.com/107355282/235348206-f822a78a-18c8-4338-a9de-f42e6a6a1396.png)
+
+
 **EXAMPLE:**
 
 >Below is the diagram for decision tree
